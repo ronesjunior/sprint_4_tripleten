@@ -1,0 +1,23 @@
+/* index.css */
+@import url("../vendor/normalize.css");
+
+/* index.css */
+@import url("../blocks/page.css");
+
+/* index.css */
+@import url("../blocks/header.css");
+
+/* index.css */
+@import url("../blocks/form.css");
+
+/* index.css */
+@import url("../blocks/nav.css");
+
+/* index.css */
+@import url("../blocks/recipes.css");
+
+/* index.css */
+@import url("../blocks/reservation.css");
+
+/* index.css */
+@import url("../blocks/footer.css");
