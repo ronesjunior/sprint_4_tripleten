@@ -6,6 +6,10 @@ A página da biblioteca Triple Peaks é o quarto projeto no programa de desenvol
 
 - HTML5 semântico
 - Flexbox
-- Posicionamento7
+- Posicionamento
+- BEM
+- iframe responsivos
+- Configurar próxima página de destino
+- Formulário
 
 link para acesso: https://ronesjunior.github.io/sprint_4_tripleten/index.html
